@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <id>1</id>
+    <title>cannot log in on https://esia.gosuslugi.ru/login/</title>
+    <severity>S4</severity>
+    <priority>P1</priority>
+    <status>opened</status>
+    <author>dagmar28</author>
+    <steps_to_reproduce>
+        <str>
+            <str1>1.open https://esia.gosuslugi.ru/login/</str1>
+            <str2>2.fill in the required fields</str2>
+            <str3>3.press the enter button</str3>
+        </str>3.press the enter button
+        </steps_to_reproduce>
+    <actual_result>404 error appears</actual_result>
+    <expected_result>succesful log in</expected_result>
+</root>
