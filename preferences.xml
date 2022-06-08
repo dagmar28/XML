@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <Person>
+                <Fav_movie>The lion<Fav_movie/>
+                <Fav_TV_show>Game of Thrones<Fav_TV_Shows/>
+                <Fav_Food>Steamed Potato<Fav_Food/>
+                <Fav_season>Summer<Fav_season/>
+		<Country_to_travel>Brazil<Country_to_travel/>
+        <Person/>
+
